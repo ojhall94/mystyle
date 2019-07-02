@@ -1,2 +1,2 @@
 # mystyle
-Repository for a personalised matplotlib style
+All I'm doing is shamelessly nicking the lightkurve MPLSTYLE and setting the ticks to 'out'
