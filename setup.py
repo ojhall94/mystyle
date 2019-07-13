@@ -11,5 +11,6 @@ setup(name='mystyle',
       license='MIT',
       packages=find_packages(),
       install_requires=['matplotlib'],
-      package_data = {'mystyle':['mystyle.mplstyle']},
+      package_data = {'mystyle':['mystyle.mplstyle'],
+                      'poster':['poster.mplstyle']},
       include_package_data=True)
